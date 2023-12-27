@@ -38,6 +38,3 @@ You can check the training loss graphs etc. by running ```mlflow ui``` in ```Pos
 ## 4D dataset
 Our own 4D dataset is available for download with fitted SMPL parameters at the following url:
 https://archive.iii.kyushu-u.ac.jp/public/FjIrAHGJbYBLDlpRzQ_R5gt2Xg8nMQ0F-_0wxgka-jzD
-
-(内部者へ)
-Gitlabに付随のWikiに詳細を記載しています.公開する際には、公開すべきでない情報(パス等)が含まれていないかの確認をお願いします。
